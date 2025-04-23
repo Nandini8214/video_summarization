@@ -86,7 +86,7 @@ def turn_into_story(summary):
 
 # Streamlit UI
 st.title("📺 nandini- YouTube/Uploaded Video Summarizer Using Groq LLM")
-st.image("PragyanAI_Transperent.png")
+st.image("gettyimages-1435854325-2048x2048 (1).jpg")
 
 youtube_url = st.text_input("Paste a YouTube video URL:", placeholder="https://www.youtube.com/watch?v=example")
 
